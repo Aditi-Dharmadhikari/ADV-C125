@@ -1,0 +1,28 @@
+.head
+{
+    width: 100%;
+    box-shadow: 5px  5px chartreuse;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.note{
+    color: black;
+    font-size: 15px;
+}
+
+.footer{
+    width: 100%;
+    font-size: 12px;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+canvas{
+    box-shadow: 5px  5px  chartreuse;
+    border: 5px solid black;
+    border-radius: 30px;
+    
+}
